@@ -1,4 +1,4 @@
-# Portfolio / Project Name
+# Portfolio 
 Hi, I’m Muhammad Uzair, a Frontend Developer specializing in HTML & CSS.
 
 This repository showcases my projects, skills, and demo websites.
