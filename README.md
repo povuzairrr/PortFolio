@@ -10,12 +10,12 @@ This repository showcases my projects, skills, and demo websites.
 ### Project 1: Website For TexasCarRepair
 - **Description:** Modern responsive design, mobile-friendly, clean UI
 - **Tech:** HTML, CSS
-- **Live Demo:** [Add hosted link if available]
+- **Live Demo:** [(https://texasautorepair.netlify.app/)]
 
 ### Project 2: Website For StateCoffe
 - **Description:** Clean, fully responsive, easy navigation
 - **Tech:** HTML, CSS
-- **Live Demo:** [Add hosted link if available]
+- **Live Demo:** ([https://statescoffe.netlify.app/)]
 
 ---
 
